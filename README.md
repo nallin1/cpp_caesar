@@ -26,4 +26,4 @@ enter the sentence to be encrypted: {string phrase}
 {your phrase encrypted}
 ```
 
-<p style={align-text:center}> Made with 💙 by @nallinguilherme </p>
+<div align="center"> Made with 💙 by @nallinguilherme </div>
